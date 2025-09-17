@@ -1,0 +1,95 @@
+ site_name: HÅNDBØKER
+ #site_url: hb.akademikerforbundet.no
+ site_description: Ditt digitale oppslagsverk i Akademikerforbundet, skrevet for deg som tillitsvalgt.                
+ site_author: Akademikerforbundet   
+ copyright: Copyright &copy; 2025 Akademikerforbundet         
+
+ theme:
+   name: material
+   language: nb                     
+   favicon: https://www.akademikerforbundet.no/favicon.ico      
+   logo: https://www.akademikerforbundet.no/sfiles/8/57/73/1/file/logo-lys.png          
+   palette:                         
+     - scheme: default
+       primary: red              
+       accent: red               
+       toggle:
+         icon: material/weather-night
+         name: Switch to dark mode
+     - scheme: slate
+       primary: red
+       accent: red
+       toggle:
+         icon: material/weather-sunny
+         name: Switch to light mode
+   font:                           
+     text: Roboto
+     code: Roboto Mono
+   features:                        
+     - navigation.instant           
+     - navigation.instant.progress
+     - navigation.path
+     - navigation.tabs        
+     - navigation.sections      
+     - navigation.top
+     - navigation.footer            
+     - navigation.tracking
+     - search.highlight
+     - search.suggest
+
+ plugins:
+   - search                     
+
+ extra:
+   generator: false
+   social:
+     - icon: fontawesome/brands/facebook
+       link: https://github.com/your-org/your-repo
+     - icon: fontawesome/brands/instagram
+       link: https://twitter.com/yourhandle
+
+ nav:
+   - Forside: index.md
+   - Tillitsvalgthåndboken:
+       - Velkommen som tillitsvalgt i Akademikerforbundet: TV/0-velkommen-som-tillitsvalgt-i-Akademikerforbundet.md
+       - 1. Hvorfor tillitsvalgtordningen: TV/1-hvorfor-tillitsvalgtordningen.md
+       - 2. Hvem er Akademikerforbundet: TV/2-hvem-er-akademikerforbundet.md
+       - 3. Tilbud til medlemmene: TV/3-tilbud-til-medlemmene.md
+       - 4. Lover, avtaler og forskrifter: TV/4-lover-avtaler-og-forskrifter.md
+       - 5. Tariffområde, hoved- og tariffavtale: TV/5-tariffomrade-hoved-og-tariffavtale.md
+       - 6. Forholdet mellom lover og avtaler: TV/6-forholdet-mellom-love-og-avtaler.md
+       - 7. Lokale forhandlinger og avtaler: TV/7-lokale-forhandlinger-og-avtaler.md
+       - 8. Ferie: TV/8-ferie.md
+       - 9. Folketrygdloven: TV/9-folketrygdloven.md
+       - 10. Sykdom: TV/10-sykdom.md
+       - 11. Arbeidstid: TV/11-arbeidstid.md
+       - 12. Ansettelse: TV/12-ansettelse.md
+       - 13. Tillitsvalgts i praksis: TV/13-tillitsvalgt-i-praksis.md
+       - 14. Drøftinger og forhandlinger: TV/14-droftinger-og-forhandlinger.md
+       - 15. Forpliktelser overfor arbeidsgiver: TV/15-forpliktelser-overfor-arbeidsgiver.md
+       - 16. Forhandlingsarbeidet: TV/16-forhandlingsarbeidet.md
+       - 17. Rettigheter og plikter som tillitsvalgt: TV/17-rettigheter-og-plikter-som-tillitsvalgt.md
+       - 18. Midlertidige stillinger og vikarer: TV/18-midlertidige-stillinger-og-vikarer.md
+       - 19. Oppsigelser: TV/19-oppsigelser.md
+       - 20. Pensjon: TV/20-pensjon.md
+       - 21. Verving: TV/21-verving.md
+       - 22. GDPR: TV/22-gdpr.md
+       - Vedlegg 1 - Varsling: TV/23-vedlegg1-varsling.md
+       - Vedlegg 2 - Tekstforslag: TV/23-vedlegg2-tekstforslag.md
+       - Vedlegg 3 - Stikkordregister: TV/23-vedlegg3-stikkordsregister.md
+   - Organisasjonstillitsvalgte:
+       - Dette må du vite før du starter: OT/0-dette-ma-du-vite-for-du-starter.md
+       - Kap.1 Styringsdokumenter: OT/1-styringsdokumenter.md
+       - Kap.2 Landsmøte: OT/2-landsmote.md
+       - Kap.3 Sentrale møteplasser: OT/3-sentrale-moteplasser.md
+       - Kap.4 Hovedstyret: OT/4-hovedstyret.md
+       - Kap.5 Regioner: OT/5-regioner.md
+       - Kap.6 Lokallag og landsdekkende lag: OT/6-lokallag-og-landsdekkende-lag.md
+       - Kap.7 Rådgivende utvalg: OT/7-radgivende-utvalg.md
+       - Kap.8 Fag- og interessegrupper (FIG): OT/8-fag-og-interessegrupper-FIG.md
+       - Kap.9 Forhandlingsarbeid: OT/9-forhandlingsarbeid.md
+       - Kap.10 Streik og konflikt: OT/10-streik-og-konflikt.md
+       - Kap.11 Kurs og konferanser: OT/11-kurs-og-konferanser.md
+       - Kap.12 Kommunikasjon og profilering: OT/12-kommunikasjon-og-profilering.md
+       - Kap.13 Økonomi: OT/13-okonomi.md
+#   - Medlemsregister: medlemsregister.md
