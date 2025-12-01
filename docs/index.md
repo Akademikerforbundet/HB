@@ -7,7 +7,7 @@ hide:
   - footer
 ---
 
-# :fontawesome-solid-book:{ .sm .middle } __Handbøkene i Akademikerforbundet__
+# :fontawesome-solid-book:{ .sm .middle } __Håndbøkene i Akademikerforbundet__
 
 **Akademikerforbundets håndbøker** er tillitsvalgte sin digitale oppslagsverk. 
 Her finner du håndbøker og veiledere som gir deg oversikt, innsikt og støtte i arbeidet ditt slik at du kan gjøre en trygg og god jobb som tillitsvalgt.
