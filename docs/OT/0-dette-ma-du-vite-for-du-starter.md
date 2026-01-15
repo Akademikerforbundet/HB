@@ -17,9 +17,9 @@ Det er også opprettet faste digitale møteplasser for regionlederne. Hensikten 
 
 ### Her er noen aktuelle lenker:
 - [Retningslinjer for regioner](https://akademikerforbundetno.sharepoint.com/:f:/r/sites/Dokumentsenter/Organisatoriske%20enheter/Retningslinjer?csf=1&web=1&e=qeU8Dv)
-- [Vedtekter 2023-2025](https://www.akademikerforbundet.no/styringsdokumenter/vedtekter/)
+- [Vedtekter](https://www.akademikerforbundet.no/styringsdokumenter/vedtekter/)
 - [Tillitsvalghåndboken](https://www.akademikerforbundet.no/tillitsvalgtboken/)
-- [Organisasjonskart 2023-2025 ![bilde](https://www.akademikerforbundet.no/sfiles/5/95/09/3/picture/793x595/organisasjonskart-2023-2025.png)](https://www.akademikerforbundet.no/om-oss/organisasjon/)
+- [Organisasjonskart ![bilde](https://www.akademikerforbundet.no/sfiles/03/29/1/picture/1280x720/lysbilde1.jpg)](https://www.akademikerforbundet.no/om-oss/organisasjon/)
 
 ## Lagring av dokumenter i Arkiv
 Regionene har en egen mappe under Arkiv hvor de lagrer alle dokumenter. Regionstyrene har lesertilgang til de andre regionmappene for å hente ideer.
