@@ -1,4 +1,4 @@
----
+<img width="2400" height="1351" alt="image" src="https://github.com/user-attachments/assets/5deeab4a-2d12-4d93-bfb9-230f35fc841d" />---
 icon: lucide/scale
 ---
 
@@ -7,7 +7,7 @@ icon: lucide/scale
 
 ## 9.1 Årshjul for regionene
 
-![]([https://www.akademikerforbundet.no/sfiles/7/86/09/3/picture/1254x941/3.1-arshjul-for-regionene.png](https://www.akademikerforbundet.no/sfiles/3/09/44/4/picture/bilde1.jpg))
+![](https://www.akademikerforbundet.no/sfiles/3/09/44/4/picture/bilde1.jpg)
 
 ## 9.2 Rutinebeskrivelse for forhandlingsarbeidet
 
