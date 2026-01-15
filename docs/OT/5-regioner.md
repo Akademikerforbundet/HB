@@ -320,11 +320,10 @@ En av årsmøtes viktigste oppgaver er å gjennomføre et valg av styreverv for 
 
 Akademikerforbundet jobber kontinuerlig med videreutvikling av organisasjonen. Det må til for å kunne yte et tilbud som treffer medlemmenes behov. For å lykkes med dette, må Akademikerforbundet ha personer med rett kompetanse i de ulike vervene.
 
-!!! note
-Viktige frister i forbindelse med gjennomføring av årsmøte: 
-- Frist for å gjøre årsmøte kjent for alle medlemmer gjennom innkalling/ kunngjøring: 5 uker før årsmøte 
-- Frist for å sende inn saker som ønskes tatt opp på årsmøte: 3 uker før årsmøte
-- Frist for å sende ut saksliste med sakspapirer til alle medlemmer: 2 uker årsmøte
+!!! note "Viktige frister i forbindelse med gjennomføring av årsmøte:"
+    - Frist for å gjøre årsmøte kjent for alle medlemmer gjennom innkalling/ kunngjøring: 5 uker før årsmøte 
+    - Frist for å sende inn saker som ønskes tatt opp på årsmøte: 3 uker før årsmøte
+    - Frist for å sende ut saksliste med sakspapirer til alle medlemmer: 2 uker årsmøte
 
 
 ### 5.8 Valgkomitéen
