@@ -6,7 +6,8 @@ icon: lucide/scale
 
 
 ## 9.1 Årshjul for regionene
-![]([https://www.akademikerforbundet.no/sfiles/7/86/09/3/picture/1254x941/3.1-arshjul-for-regionene.png](https://www.akademikerforbundet.no/sfiles/3/09/44/4/picture/bilde1.jpg)
+![](https://www.akademikerforbundet.no/sfiles/3/09/44/4/picture/bilde1.jpg)
+
 ## 9.2 Rutinebeskrivelse for forhandlingsarbeidet
 
 Jf. «Retningslinjer for regionene» skal regionstyret organisere regionens forhandlingsarbeid. Dersom vi tar utgangspunkt i årshjulet i foregående pkt. 9.1, kan vi identifisere tre faser for dette arbeidet. Fra (i) januar og frem mot sommeren er forberedelser av forhandlingsberedskapen helt avgjørende for å (ii) møte godt rustet for perioden med lokale forhandlinger som vanligvis finner sted i fra august og ut oktober. Dette er et krevende arbeid som alltid vil ha rom for forbedring og det er derfor viktig at regionen (iii) evaluerer forhandlingsberedskapen i etterkant, det vil være naturlig å legge dette til november ifm. regionledersamling.
