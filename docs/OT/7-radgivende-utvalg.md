@@ -53,7 +53,7 @@ Studentarbeidet i Akademikerforbundet er underlagt vanlig drift av forbundet, og
 
 ## Håndtering av utlegg
 
-I situasjoner der enkeltpersoner må legge ut for forbundet, skal dette håndteres i henhold til regelverk for reiseregninger.  [Se i kapittelet om økonomi.](https://www.akademikerforbundet.no/akademikerforbundets-handbok/okonomi/)
+I situasjoner der enkeltpersoner må legge ut for forbundet, skal dette håndteres i henhold til regelverk for reiseregninger.  [Se i kapittelet om økonomi.](https://handbok.akademikerforbundet.no/OT/13-okonomi/)
 
 ## Frikjøp
 
