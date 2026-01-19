@@ -34,7 +34,7 @@ Alle medlemmer i en fag- og interessegruppe ivaretas i regionene på samme måte
 ## Bygge lokallag
 
 Oppsøk andre der du er og bidra til at det bygges lokallag. Når det bygges lokallag, deles ikke dette inn etter fag- og interesse, alle er samlet i ett lokallag.  
-[Les mer i tillitsvalgthåndboken.](https://www.akademikerforbundet.no/tillitsvalgtboken/)  
+[Les mer i tillitsvalgthåndboken.](https://handbok.akademikerforbundet.no/TV/0-velkommen-som-tillitsvalgt-i-Akademikerforbundet/)  
   
 
 ## 8.4 Deltakelse sentrale møteplasser
