@@ -33,7 +33,7 @@ Fakturaer som blir sendt oss direkte, etter et arrangement, må påføres hva de
   
 Når reiseregninger, utlegg og fakturaer er ført i regnskap (Xledger) skal disse godkjennes av økonomiansvarlig i region før utbetaling. Alle økonomiansvarlige skal ha tilgang til Xlegder for godkjenninger. Når det blir ny økonomiansvarlig, vil denne få egen tilgang. Husk å sjekke Xledger regelmessig om det er regninger som må godkjennes.
 
-[Retningslinjer for utlegg ved reiser knyttet til møter og aktiviteter i Akademikerforbundet](https://www.akademikerforbundet.no/sfiles/4/16/60/4/file/retningslinjer-for-utlegg-ved-reiser.pdf)  
+[Retningslinjer for utlegg ved reiser knyttet til møter og aktiviteter i Akademikerforbundet](https://www.akademikerforbundet.no/sfiles/5/37/09/3/file/retningslinjer-for-utlegg-ved-reiser-vedtatt-27.8.2025.pdf)  
 (retningslinjer-for-utlegg-ved-reiser.pdf, 144kB)
 
 ## 13.2 Budsjett og regnskap
