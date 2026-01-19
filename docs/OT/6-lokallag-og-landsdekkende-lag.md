@@ -23,7 +23,7 @@ Sekretariatet utarbeider hvert år en oversikt over medlemsmassen i hver enkelt 
 
 ## 6.3 Tiltaksplan
 
-Regionstyret skal utarbeid en tiltaksplan med angivelse av aktiviteter gjennom året og arbeidsfordeling mellom styremedlemmene. Av tiltaksplanen bør det fremkomme hvilke satsningsområder regionstyret har for nærmeste periode, samt en beskrivelse av hvordan man skal arbeide med dette (for eksempel angitt mål om å få på plass et antall tillitsvalgte med tilhørende oversikt over medlemsmøter og oppfølging). Tilsvarende tiltaksplaner kan gjerne utarbeides av lokallag av en viss størrelse, og i alle fall lokallag med styre.  [Her finner du mal for tiltaksplan.](https://akademikerforbundetno.sharepoint.com/:f:/s/Dokumentsenter/EpnXkW-tA8NDqi4V8E5W2MoB0-w_TsyCl1Gyk4oZ-dFgCQ?e=eIxIAC)
+Regionstyret skal utarbeid en tiltaksplan med angivelse av aktiviteter gjennom året og arbeidsfordeling mellom styremedlemmene. Av tiltaksplanen bør det fremkomme hvilke satsningsområder regionstyret har for nærmeste periode, samt en beskrivelse av hvordan man skal arbeide med dette (for eksempel angitt mål om å få på plass et antall tillitsvalgte med tilhørende oversikt over medlemsmøter og oppfølging). Tilsvarende tiltaksplaner kan gjerne utarbeides av lokallag av en viss størrelse, og i alle fall lokallag med styre.  [Her finner du mal for tiltaksplan.]([https://akademikerforbundetno.sharepoint.com/:f:/s/Dokumentsenter/EpnXkW-tA8NDqi4V8E5W2MoB0-w_TsyCl1Gyk4oZ-dFgCQ?e=eIxIAC](https://akademikerforbundetno.sharepoint.com/:x:/s/Dokumentsenter/IQDaqyv2NZLMRZSkOI4JbZ-mAQfhTmntaMrz9CaoI489qnQ?e=rinhY0))
 
 Eksempler på aktiviteter som kan inngå i en tiltaksplan:
 
