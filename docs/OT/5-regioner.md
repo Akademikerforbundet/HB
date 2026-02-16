@@ -127,9 +127,9 @@ Ulemper:
 ### Honorar  
   
 
-For landsmøteperioden 2023 til 2025 har landsmøtet bestemt at oppgaver, ansvar og myndighet i regionene er av et omfang som kvalifiserer til honorar. Det er fattet vedtak om følgende satser for honorar til regionstyremedlemmer:  
+For landsmøteperioden 2026 til 2028 har landsmøtet bestemt at oppgaver, ansvar og myndighet i regionene er av et omfang som kvalifiserer til honorar. Det er fattet vedtak om følgende satser for honorar til regionstyremedlemmer:  
   
-Regionleder: kr. 36 000,-  
+Regionleder: kr. 40 000,-  
   
 Regionleder: 100 %  
 Nestleder: 50 % av regionleder     
