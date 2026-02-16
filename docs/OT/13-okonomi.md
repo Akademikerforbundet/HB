@@ -49,7 +49,7 @@ Midlene skal benyttes til medlemspleie lokalt. Et overordnet mål for bruk av mi
 
 ## Opplysnings- og utviklingsmidler (OU)
 
-Unio tildeler OU-midler til Akademikerforbundet etter gitt fordelingsnøkkel. OU-midler brukes til kurs- og kompetansehevende aktiviteter.  [Retningslinjer og skjema for bruk, finner du her.](https://akademikerforbundetno.sharepoint.com/arkiv/Regioner/Forms/AllItems.aspx?id=%2Farkiv%2FRegioner%2FRegionstyreh%C3%A5ndbok%2F%C3%98konomi%2FOU&p=true&ga=1)
+Unio tildeler OU-midler til Akademikerforbundet etter gitt fordelingsnøkkel. OU-midler brukes til kurs- og kompetansehevende aktiviteter.  [Retningslinjer og skjema for bruk, finner du her.](https://akademikerforbundetno.sharepoint.com/:x:/s/Dokumentsenter/IQA6KYLM7sceSqAj_8K2v0LeAUujnmVL8C0nH1_M2kKjUH8?e=lsPv8v)
 
 Regionstyrene kan søke OU-midler til lokale aktiviteter/kurs. Søknad sendes GS. Lokallag kan også søke midler til aktiviteter. Søknadene sendes regionstyret for videresending til GS.  
   
