@@ -20,4 +20,4 @@ Lykke til i vervet som tillitsvalgt!
 Mizanur Rahaman  
 Forbundsleder
 
-![](https://www.akademikerforbundet.no/sfiles/2/55/60/4/picture/640x480/organisasjonskart-2023-2025.png)
+![](https://www.akademikerforbundet.no/sfiles/03/29/1/picture/1280x720/lysbilde1.jpg)
