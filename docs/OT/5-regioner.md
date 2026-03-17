@@ -142,7 +142,7 @@ For valgte verv av min. 6 måneders varighet blir det bortfall av honorar tilsva
   
 *Styremedlemmer med utvidet arbeidsområde. Listen er ikke uttømmende. Struktur fastsettes av regionstyret.  
 
-[Last ned Regionstyrehonorar skjema 2026-2028 her](https://akademikerforbundetno.sharepoint.com/:x:/s/Dokumentsenter/IQCy9tZ1sZrWRKlKnqvhdEv6AVeXcRMNJYJAimQd0AiL3Nw?e=j3xAZO)
+[Last ned Regionstyrehonorar skjema 2026-2028 her](https://akademikerforbundetno.sharepoint.com/:x:/s/Dokumentsenter/IQAGJiao9ciUTK7o3NlAFB3zAS1BM9Daxb8X9ic3WN0aZeg?e=syEltf)
 
 ### Frikjøp
 
