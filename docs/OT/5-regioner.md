@@ -141,7 +141,8 @@ Andre varamedlemmer: kr 500 pr. møte, opptil 15 % av regionleders honorar
 For valgte verv av min. 6 måneders varighet blir det bortfall av honorar tilsvarende stillingsprosenten ved frikjøp til samme verv/oppdrag.   
   
 *Styremedlemmer med utvidet arbeidsområde. Listen er ikke uttømmende. Struktur fastsettes av regionstyret.  
-  
+
+[Last ned Regionstyrehonorar skjema 2026-2028 her](https://akademikerforbundetno.sharepoint.com/:x:/s/Dokumentsenter/IQCy9tZ1sZrWRKlKnqvhdEv6AVeXcRMNJYJAimQd0AiL3Nw?e=j3xAZO)
 
 ### Frikjøp
 
@@ -207,7 +208,7 @@ Grunnkurs for tillitsvalgte og andre kurs som forbundet arrangerer, for eksempel
 
 ## Politiske oppgaver
 
-Som det kommer frem i retningslinjene, er regionstyrene ansvarlig for løpende politisk arbeid i regionen. Et betydelig ansvar som ligger til denne oppgaven, er å engasjere regionens medlemmer i aktuelle saker og hente inn medlemmenes meninger. Det politiske arbeidet handler om å utøve og utforme forbundets politikk. For å lykkes med arbeidet, må regionen ha etablert fysiske og digitale møteplasser for medlemmer og tillitsvalgte.
+Som det kommer frem i retningslinjene, er regionstyrene ansvarlig for løpende politisk arbeid i regionen. Et betydelig ansvar som ligger til denne oppgaven, er å engasjere regionens medlemmer i aktuelle saker og hente inn medlemmenes meninger. Det politiske arbeidet handler om å utøve og utforme forbundets politikk. For å lykkes med arbeidet, må regionen ha etablert fysiske og digitale møte************plasser for medlemmer og tillitsvalgte.
 
 ### Hvordan arbeide med politikk i regionen?
 
