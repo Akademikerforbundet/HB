@@ -14,9 +14,9 @@ Forbundsledervervet er lønnet i 100 % stilling. De øvrige medlemmene mottar ho
 
 #### Styremøtene
 
-Styremøtene finner sted ca. en gang i måneden, i sekretariatets lokaler i Tollbugt. 35 eller digitalt. Hovedstyret har normalt to arbeidsseminar i året, mai og september.  
-**  
-Varaer**  
+Styremøtene finner sted ca. en gang i måneden, i sekretariatets lokaler i Tollbugt. 35 eller digitalt. Hovedstyret har normalt to arbeidsseminar i året, mars og september.  
+
+#### Varaer  
 Hovedstyret oppnevner normalt første vara til fast møtende vara. De øvrige deltar ved ev. forfall.
 
 #### Seminar
