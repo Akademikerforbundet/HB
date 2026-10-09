@@ -330,6 +330,7 @@ Akademikerforbundet jobber kontinuerlig med videreutvikling av organisasjonen. D
 ### 5.8 Valgkomitéen
 
 Valgkomitéen skal i samspill med de ulike organisatoriske ledd finne de kandidatene som skal lede regionen. Dersom valgkomitéen skal lykkes i dette arbeidet, må forbundets tillitsvalgte kontinuerlig arbeide med å identifisere personer som kan ha potensiale til å fylle ulike verv i organisasjonen. Valgkomitéens oppgave blir da å vurdere ulike kandidater som blir lansert av lokallag eller andre medlemmer. Valgkomitéen kan også selv kontakte kandidater som de mener er egnet for vervene. Valgkomitéens kandidater presenteres så for årsmøtet.
+Det er regionstyret som innstiller kandidater til valgkomiteen og presenterer innstillingen for årsmøtet.
 
 [Her finner du veilederen: Valgkomitéens arbeid](https://akademikerforbundetno.sharepoint.com/:w:/s/Dokumentsenter/Ee1rjI0zDwxMobeg_RndgwUBS2kO7quxPoYYwNgnLt7YeA?e=6wldnA)
 
