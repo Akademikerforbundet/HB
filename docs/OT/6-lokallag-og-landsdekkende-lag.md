@@ -49,6 +49,8 @@ En tillitsvalgt er i hovedsak valgt av medlemmene på den enkelte arbeidsplass t
   
 Det skal alltid gjennomføres valg av tillitsvalgt. Vervet er gitt av medlemmene på den enkelte arbeidsplass, i virksomheten eller i organisasjonen. Unntaket er de steder hvor punkter i vedtekter- eller avtaleverk tillater at et verv utpekes av andre tillitsvalgte som en forlengelse av lokaldemokratiet. Det er viktig å avholde jevnlige valg, siden det også over tid kan skje endringer i medlemsmassen. Det er anbefalt å sette faste intervaller for valg og en periode bør ikke være lengre enn en landsmøteperiode (3 år).
 
+Om det ikke er tillitsvalgt på arbeidsplassen, kan denne utlysningsteksten brukes. 
+
 ## 6.6 Sekretariatets rutiner ved innmelding/utmelding
 
 ### Innmelding:
